@@ -1,0 +1,11 @@
+obj\Debug\Product.wixobj
+C:\Test\SetupSuperApp\bin\Debug\ru-ru\SetupSuperApp.msi
+C:\Test\SetupSuperApp\bin\Debug\ru-ru\SetupSuperApp.wixpdb
+obj\Debug\SetupSuperApp.wixproj.BindContentsFileListru-ru.txt
+obj\Debug\SetupSuperApp.wixproj.BindOutputsFileListru-ru.txt
+obj\Debug\SetupSuperApp.wixproj.BindBuiltOutputsFileListru-ru.txt
+obj\Debug\File1.wixobj
+obj\Debug\Shortcuts.wixobj
+C:\Users\Kirill\Desktop\Test\SetupSuperApp\bin\Debug\ru-ru\SetupSuperApp.msi
+C:\Users\Kirill\Desktop\Test\SetupSuperApp\bin\Debug\ru-ru\SetupSuperApp.wixpdb
+obj\Debug\WixUI_Shortcuts.wixobj

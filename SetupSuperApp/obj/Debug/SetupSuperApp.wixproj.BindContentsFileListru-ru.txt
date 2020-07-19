@@ -1,0 +1,2 @@
+C:\Test\SuperApp\bin\Debug\Colorful.Console.dll
+C:\Test\SuperApp\bin\Debug\SuperApp.exe

@@ -1,0 +1,2 @@
+C:\Users\Kirill\Desktop\Test\SetupSuperApp\bin\Debug\ru-ru\SetupSuperApp.msi
+C:\Users\Kirill\Desktop\Test\SetupSuperApp\bin\Debug\ru-ru\SetupSuperApp.wixpdb
